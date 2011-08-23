@@ -13,5 +13,10 @@ end
 group :test do
      gem 'webrat'
      gem 'rspec'
+	 gem 'autotest'
+	 gem 'autotest-rails-pure'
+	 gem 'autotest-fsevent'
+	 gem 'autotest-growl'
+	 gem 'ZenTest'
      gem 'spork'
 end
