@@ -19,4 +19,5 @@ group :test do
 	 gem 'autotest-growl'
 	 gem 'ZenTest'
      gem 'spork'
+ 	 gem 'factory_girl_rails'
 end
